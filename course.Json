@@ -3,7 +3,7 @@
       {
         "course_name": "Accounting and Finance MSc",
         "level": "Postgraduate",
-        "courseicon":"icons/icon.png",
+        "courseicon":"icon.png",
         "duration": "1 year full-time with placement 2 years",
         "starting":"September,February",
         "entry_requirements": [
@@ -26,7 +26,7 @@
       {
         "course_name": "Adult Nursing BSc (Hons)",
         "level":"Udergraduate",
-        "courseicon":"icons/icon.png",
+        "courseicon":"icon.png",
         "duration":"3 years full-time",
         "starting": "September,February",
         "entry_requirements": [ 
@@ -50,7 +50,7 @@
         "school": "The University Of Northampton",
 
         "level": "Undergraduate",
-        "courseicon":"icons/icon.png",
+        "courseicon":"icon.png",
         "duration": "3 years full-time",
         "starting":"September",
         "entry_requirements": [
@@ -73,7 +73,7 @@
       {
         "course_name": "Biochemistry BSc (Hons)",
         "level":"Undergraduate",
-        "courseicon":"icons/icon.png",
+        "courseicon":"icon.png",
         "icon": "",
         "duration": [
                       "Full Time: 3 years",
@@ -102,7 +102,7 @@
         "course_name": "Doctor of Business Administration DBA",
         "school": "The University Of Northampton",
         "level": "Postgraduate",
-        "courseicon":"icons/icon.png",
+        "courseicon":"icon.png",
         "duration": "Part Time: 4 Years",
         "starting":"September",
         "entry_requirements": [
@@ -128,7 +128,7 @@
         "course_name": "Biological Sciences BSc (Hons)",
         "school": "The University Of Northampton",
         "level": "Undergraduate",
-        "courseicon":"icons/icon.png",
+        "courseicon":"icon.png",
         "duration": ["Full Time: 3 years", 
                     " Full Time Foundation: 4 years",
                     "Part Time: 4 years"],
@@ -156,7 +156,7 @@
         "course_name": "Marketing Management (Top-Up) BA (Hons)",
         "school": "The University Of Northampton",
         "level": "Undergraduate",
-        "courseicon":"icons/icon.png",
+        "courseicon":"icon.png",
         "duration": ["Full Time: 1 Year",
                       " Part Time: 2 Years"],
         "starting":"September",
@@ -181,7 +181,7 @@
         "course_name": "Master of Business Administration – Finance MBA",
         "school": "The University Of Northampton",
         "level": "Postgraduate",
-        "courseicon":"icons/icon.png",
+        "courseicon":"icon.png",
         "duration": ["Full Time: 1 Year",
                     "Full Time with Placement: 18 - 24 Months"],
         "starting":"September",
@@ -206,7 +206,7 @@
         "course_name": "Nursing Associate FdSc",
         "school": "The University Of Northampton",
         "level": "Undergraduate",
-        "courseicon":"icons/icon.png",
+        "courseicon":"icon.png",
         "duration": "2 years Full-time",
         "starting":"September",
         "entry_requirements": [
@@ -230,7 +230,7 @@
         "course_name": "Software Engineering BSc (Hons)",
         "school": "The University Of Northampton",
         "level": "Undergraduate",
-        "courseicon":"icons/icon.png",
+        "courseicon":"icon.png",
         "duration": ["Full Time: 3 years",
                       "Full Time Foundation: 4 years",
                       "Part Time: 4 - 6 years"],
