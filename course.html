@@ -1,33 +1,27 @@
-<!-- course.html -->
-<!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Course List</title>
 	<link rel="stylesheet" href="course.css">
 </head>
 <body>
-	<h1>The University Of Northampton Course List</h1>
-	<div id="course-table"></div>
+	<div class="header">
+		<h1>The University Of Northampton Course List</h1>
+		<nav>
+			<select id="currency">
+				<option value="0" disabled>Select Currency</option>
+				<option value="1">Euro</option>
+				<option value="2">Pounds</option>
+				<option value="3">Dollars</option>
+			</select>
+		</nav>
+	</div>
+	
+	<div id="course-grid"></div>
+	
+
 	<script src="course.js"></script>
 </body>
 </html>
-<div class="The University Of Northampton course-list">
-	<div class="course">
-	  <img src="path/to/your/Icon.png22" alt="">
-
-	  <div id="requirement">
-		<!-- Initial set of items -->
-		
-	  <button id="view-more-button">View More</button>
-	  
-	  <!--<h2>Course Title</h2>
-	  <p>Course description</p>
-	</div>
-	<div class="course">
-	  <img src="path/to/your/icon2.png" alt="Course Icon">
-	  <!--<h2>computer science</h2>
-	  <p>Course description</p>
-	</div>
-	<!-- Add more courses here -->
-  </div>
-  
